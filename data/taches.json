@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "titre": "Corriger le bug de login",
+    "description": "Erreur 500 quand le mot de passe contient un accent",
+    "responsable": "Alice",
+    "priorite": "Haute",
+    "statut": "En cours",
+    "echeance": "2026-09-10"
+  },
+  {
+    "id": 2,
+    "titre": "Écrire la documentation",
+    "description": "README et guide d'installation",
+    "responsable": "Bob",
+    "priorite": "Normale",
+    "statut": "À faire",
+    "echeance": "2026-12-15"
+  },
+  {
+    "id": 3,
+    "titre": "Mettre en place les tests",
+    "description": "Tests unitaires du module de paiement",
+    "responsable": "Chloé",
+    "priorite": "Basse",
+    "statut": "Terminée",
+    "echeance": "2026-09-01"
+  },
+  {
+    "id": 4,
+    "titre": "Développer l'appli python",
+    "description": "Développer l'appli python pour le rattrapage",
+    "responsable": "Nathan",
+    "priorite": "Normale",
+    "statut": "À faire",
+    "echeance": "2026-12-12"
+  }
+]
