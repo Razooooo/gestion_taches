@@ -1,1 +1,3 @@
 data/taches.json
+__pycache__/
+*.pyc
